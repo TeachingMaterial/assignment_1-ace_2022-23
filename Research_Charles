@@ -1,0 +1,14 @@
+SQL Image Research
+
+CREATE TABLE dbo.TblPicture
+( ID VarChar2(4), NAME VARCHAR(100) ,Picture VARBINARY(MAX) )
+CONSTRAINT TblPicture_ID_PK NOT NULL;
+
+--Import Image/File from File System To SQL Server Table
+INSERT INTO dbo.TblPicture_Src 
+( NAME,Picture)
+SELECT 'Capture1.PNG' ,BulkColumn
+FROM Openrowset(BULK 'C:\4_Mypicture.PNG', Single_Blob) AS Picture
+
+SELECT *
+FROM dbo.TblPicture_Src
