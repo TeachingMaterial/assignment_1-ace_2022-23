@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ELEE_1119_App.Server.props" />
-</Project>

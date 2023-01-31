@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ELEE_1119_App",
+    "\\ELEE_1119_App\\Client",
+    "\\ELEE_1119_App\\Client\\obj",
+    "\\ELEE_1119_App\\Server",
+    "\\ELEE_1119_App\\Shared",
+    "\\ELEE_1119_App\\Shared\\bin",
+    "\\ELEE_1119_App\\Shared\\obj"
   ],
+  "SelectedNode": "\\ELEE_1119_App\\Shared\\obj\\Release",
   "PreviewInSolutionExplorer": false
 }
