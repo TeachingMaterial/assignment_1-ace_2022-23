@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\obj\\Debug\\net7.0\\build-gz\\eW3wDor6.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\obj\\Debug\\net7.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\obj\\Debug\\net7.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ELEE_1119_mobileApp.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ELEE_1119_mobileApp.Client.props",
+      "PackagePath": "build\\ELEE_1119_mobileApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ELEE_1119_mobileApp.Client.props",
+      "PackagePath": "buildMultiTargeting\\ELEE_1119_mobileApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ELEE_1119_mobileApp.Client.props",
+      "PackagePath": "buildTransitive\\ELEE_1119_mobileApp.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

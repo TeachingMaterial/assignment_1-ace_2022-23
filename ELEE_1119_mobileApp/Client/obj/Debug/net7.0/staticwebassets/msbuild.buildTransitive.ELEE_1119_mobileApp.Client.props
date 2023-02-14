@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ELEE_1119_mobileApp.Client.props" />
+</Project>
