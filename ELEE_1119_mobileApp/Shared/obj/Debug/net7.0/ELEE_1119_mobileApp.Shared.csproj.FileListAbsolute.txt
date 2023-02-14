@@ -1,0 +1,12 @@
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Shared\bin\Debug\net7.0\ELEE_1119_mobileApp.Shared.deps.json
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Shared\bin\Debug\net7.0\ELEE_1119_mobileApp.Shared.dll
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Shared\bin\Debug\net7.0\ELEE_1119_mobileApp.Shared.pdb
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Shared\obj\Debug\net7.0\ELEE_1119_mobileApp.Shared.csproj.AssemblyReference.cache
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Shared\obj\Debug\net7.0\ELEE_1119_mobileApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Shared\obj\Debug\net7.0\ELEE_1119_mobileApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Shared\obj\Debug\net7.0\ELEE_1119_mobileApp.Shared.AssemblyInfo.cs
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Shared\obj\Debug\net7.0\ELEE_1119_mobileApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Shared\obj\Debug\net7.0\ELEE_1119_mobileApp.Shared.dll
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Shared\obj\Debug\net7.0\refint\ELEE_1119_mobileApp.Shared.dll
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Shared\obj\Debug\net7.0\ELEE_1119_mobileApp.Shared.pdb
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Shared\obj\Debug\net7.0\ref\ELEE_1119_mobileApp.Shared.dll
