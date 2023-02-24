@@ -1,9 +1,3 @@
-C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\ELEE_1119_mobileApp.Client.csproj.AssemblyReference.cache
-C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\ELEE_1119_mobileApp.Client.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\ELEE_1119_mobileApp.Client.AssemblyInfoInputs.cache
-C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\ELEE_1119_mobileApp.Client.AssemblyInfo.cs
-C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\ELEE_1119_mobileApp.Client.csproj.CoreCompileInputs.cache
-C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\ELEE_1119_mobileApp.Client.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.2.e8gxhnrq4n.js
@@ -45,6 +39,7 @@ C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.SystemEvents.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
@@ -77,6 +72,7 @@ C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.dll
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Common.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
@@ -275,6 +271,7 @@ C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Common.dll.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
@@ -357,6 +354,7 @@ C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.SystemEvents.dll.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.2.e8gxhnrq4n.js.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
@@ -441,6 +439,8 @@ C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\Microsoft.JSInterop.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\System.Drawing.Common.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\System.IO.Pipelines.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\Microsoft.CSharp.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\Microsoft.VisualBasic.Core.dll
@@ -619,6 +619,12 @@ C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\icudt_no_CJK.dat
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\ELEE_1119_mobileApp.Shared.dll
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\bin\Debug\net7.0\ELEE_1119_mobileApp.Shared.pdb
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\ELEE_1119_mobileApp.Client.csproj.AssemblyReference.cache
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\ELEE_1119_mobileApp.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\ELEE_1119_mobileApp.Client.AssemblyInfoInputs.cache
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\ELEE_1119_mobileApp.Client.AssemblyInfo.cs
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\ELEE_1119_mobileApp.Client.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\ELEE_1119_mobileApp.Client.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\build-gz\mXBJTOsG.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\build-gz\UWnx4+yt.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\build-gz\+muzJLX2.gz
@@ -642,6 +648,8 @@ C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\build-gz\Cdv0GWKP.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\build-gz\4rpB+w9x.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\build-gz\6yzeeB5I.gz
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\build-gz\Rl2u1Muu.gz
+C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\build-gz\eP7MSLYl.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\build-gz\ejc3BONO.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\build-gz\PdDxjzfC.gz
 C:\Users\Charles\Documents\Visual Studio Projects\ELEE_1119_mobileApp\Client\obj\Debug\net7.0\build-gz\p+ZbU54P.gz

@@ -30,6 +30,8 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-q4ruoDSCjV\/QJY9ZkzV6uxvEvZUVrDbyUjU3SSh5SlE=",
       "Microsoft.JSInterop.dll": "sha256-NEVAdeszc3znLkYaJmx+GGKymfJY7FxK8dPfcsfwIMg=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-29PjAuoFwhjBLr05a8f687e+zt8FQ910ALzJS7iF8AA=",
+      "Microsoft.Win32.SystemEvents.dll": "sha256-11EaR4uBFrqdhbwihIzsW8r1bTUaibTxgByDX1ra+eQ=",
+      "System.Drawing.Common.dll": "sha256-HL72nkcOr6ydoXS1cFxExSBny4szBMDeI8wE6kPa7l0=",
       "System.IO.Pipelines.dll": "sha256-P\/MqD0fCBd5bgTM16JC1QC\/Zz7s+CwViyzmDFkBG4\/c=",
       "Microsoft.CSharp.dll": "sha256-FWCuPmOmgiOH+yf8assJ\/zkmP3u3UlIr0cEz22mW9rE=",
       "Microsoft.VisualBasic.Core.dll": "sha256-\/T9+8W0Fs9hs8GrzSVqvcqV7hSNQ4Iq0krkIjT77UZU=",
@@ -199,15 +201,15 @@
       "mscorlib.dll": "sha256-T52Qf1cS\/UysEoWOoE2ptEJEXfGpanQX5KNLyDiLv1E=",
       "netstandard.dll": "sha256-p32h5P3QmHJ\/FGoeE6m7f5g\/8ng2PSPGZktHyMadvIs=",
       "System.Private.CoreLib.dll": "sha256-6MwQcyKbqBsoZYOcD9fQJ4iKcn1qMmWRWVEkU2LLCb0=",
-      "ELEE_1119_mobileApp.Shared.dll": "sha256-nJ+oTZbZbwiWbNKUdhPktEvu\/\/fAKb7dlnqPKg+jX2A=",
-      "ELEE_1119_mobileApp.Client.dll": "sha256-C1hFlhWftM7KtFmSsBxpBz\/9JXuT2V3lUzzRvW0NXLM="
+      "ELEE_1119_mobileApp.Shared.dll": "sha256-R\/OKl9g8iptRZKKBcXxuqJil2DKmKyvO+o5P4Bry3us=",
+      "ELEE_1119_mobileApp.Client.dll": "sha256-Y59aHRjBS1yxv0sHGeyzYUtgDhEIlju6uD8y67ReD\/M="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "ELEE_1119_mobileApp.Shared.pdb": "sha256-OtR4i9+svu2kXQiZNm1N\/iiAmANq4W0+9prfPMajJf8=",
-      "ELEE_1119_mobileApp.Client.pdb": "sha256-6lQm1JBfXaZKcQc5jtl96nXV2yy1unuJaXgrcREvd84="
+      "ELEE_1119_mobileApp.Shared.pdb": "sha256-Ct8zQgZousA3jnigIu9P7DLjXijuuZ0Uv8yv\/gQo9ts=",
+      "ELEE_1119_mobileApp.Client.pdb": "sha256-vKUogbaL3CnmBXLocJPUobEqgwCZ0cWzIOhlCL2A06g="
     },
     "runtime": {
       "dotnet.7.0.2.e8gxhnrq4n.js": "sha256-4mh03qTse0uNR+dQ6ydExm4jJXph0RE8zGNCtF0jiNA=",

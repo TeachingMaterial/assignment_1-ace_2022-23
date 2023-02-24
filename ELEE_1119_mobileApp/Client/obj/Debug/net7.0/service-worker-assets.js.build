@@ -9,7 +9,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-a9ePNICpykahl1FhedsbhKFQAIGNcoRbMVU2qJ5uFBw=",
+      "hash": "sha256-1NHoi5tlf2gxTrS6Cj9ndvVlMXR8pjyNS83hD6I7wlo=",
       "url": "index.html"
     },
     {
@@ -107,6 +107,14 @@
     {
       "hash": "sha256-29PjAuoFwhjBLr05a8f687e+zt8FQ910ALzJS7iF8AA=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
+      "hash": "sha256-11EaR4uBFrqdhbwihIzsW8r1bTUaibTxgByDX1ra+eQ=",
+      "url": "_framework\/Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "hash": "sha256-HL72nkcOr6ydoXS1cFxExSBny4szBMDeI8wE6kPa7l0=",
+      "url": "_framework\/System.Drawing.Common.dll"
     },
     {
       "hash": "sha256-P\/MqD0fCBd5bgTM16JC1QC\/Zz7s+CwViyzmDFkBG4\/c=",
@@ -813,19 +821,19 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-nJ+oTZbZbwiWbNKUdhPktEvu\/\/fAKb7dlnqPKg+jX2A=",
+      "hash": "sha256-R\/OKl9g8iptRZKKBcXxuqJil2DKmKyvO+o5P4Bry3us=",
       "url": "_framework\/ELEE_1119_mobileApp.Shared.dll"
     },
     {
-      "hash": "sha256-OtR4i9+svu2kXQiZNm1N\/iiAmANq4W0+9prfPMajJf8=",
+      "hash": "sha256-Ct8zQgZousA3jnigIu9P7DLjXijuuZ0Uv8yv\/gQo9ts=",
       "url": "_framework\/ELEE_1119_mobileApp.Shared.pdb"
     },
     {
-      "hash": "sha256-eH5hqcRd5fbb2Bro2\/a600B\/H25GyQnAl8\/wI8a\/kOU=",
+      "hash": "sha256-LVGBFYQZ+9XNrocM2RAlLnJfISR2lRHsNaMS+JlxZhQ=",
       "url": "_framework\/ELEE_1119_mobileApp.Client.dll"
     },
     {
-      "hash": "sha256-PKaL1XRvfpboBP\/hVezw+qMfMne+H7tr2xcp1xQT4wk=",
+      "hash": "sha256-ZrIOtnFG7fLYMyVxnRSuJvBpJOFMiLb9BjYNI1f7WYs=",
       "url": "_framework\/ELEE_1119_mobileApp.Client.pdb"
     },
     {
@@ -833,9 +841,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-CcJnPTeU+ns9PtgEQ9Rkw94D7Z0f8rYkEKwKpN39yhw=",
+      "hash": "sha256-rvzSR87l88oPvTo9eQgP9Cq0udd+ZFcylWqC\/v7hDZI=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "hb8uhs2h"
+  "version": "P026PxcU"
 };
