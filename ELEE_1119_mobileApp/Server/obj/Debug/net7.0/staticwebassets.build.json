@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uywdYqLBa3KUXxcHA4t68yeRC+wthMH75+R5bsGRYOg=",
+  "Hash": "71eNHnP4mrGAdNYuBDm42zhKUA/un1lGaUnhevpN5Ps=",
   "Source": "ELEE_1119_mobileApp.Server",
   "BasePath": "_content/ELEE_1119_mobileApp.Server",
   "Mode": "Default",
@@ -24,13 +24,6 @@
       "Source": "ELEE_1119_mobileApp.Client",
       "ContentRoot": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\wwwroot\\",
       "BasePath": "/",
-      "Pattern": "**"
-    },
-    {
-      "Name": "ELEE_1119_mobileApp.Server\\wwwroot",
-      "Source": "ELEE_1119_mobileApp.Server",
-      "ContentRoot": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Server\\wwwroot\\",
-      "BasePath": "_content/ELEE_1119_mobileApp.Server",
       "Pattern": "**"
     }
   ],
@@ -733,6 +726,23 @@
       "OriginalItemSpec": "C:\\Users\\Charles\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.2\\runtimes\\browser-wasm\\lib\\net7.0\\Microsoft.Win32.Registry.dll"
     },
     {
+      "Identity": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Win32.SystemEvents.dll",
+      "SourceId": "ELEE_1119_mobileApp.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Win32.SystemEvents.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Charles\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\lib\\net7.0\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
       "Identity": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\mscorlib.dll",
       "SourceId": "ELEE_1119_mobileApp.Client",
       "SourceType": "Project",
@@ -1275,6 +1285,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Charles\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.2\\runtimes\\browser-wasm\\lib\\net7.0\\System.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Drawing.Common.dll",
+      "SourceId": "ELEE_1119_mobileApp.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Drawing.Common.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Charles\\.nuget\\packages\\system.drawing.common\\7.0.0\\lib\\net7.0\\System.Drawing.Common.dll"
     },
     {
       "Identity": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Drawing.dll",
@@ -4643,6 +4670,23 @@
       "OriginalItemSpec": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Formats.Tar.dll"
     },
     {
+      "Identity": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\obj\\Debug\\net7.0\\build-gz\\eP7MSLYl.gz",
+      "SourceId": "ELEE_1119_mobileApp.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Drawing.Common.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Drawing.Common.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Drawing.Common.dll"
+    },
+    {
       "Identity": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\obj\\Debug\\net7.0\\build-gz\\eW3wDor6.gz",
       "SourceId": "ELEE_1119_mobileApp.Client",
       "SourceType": "Project",
@@ -6035,6 +6079,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Buffers.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\obj\\Debug\\net7.0\\build-gz\\Rl2u1Muu.gz",
+      "SourceId": "ELEE_1119_mobileApp.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Win32.SystemEvents.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Win32.SystemEvents.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.Win32.SystemEvents.dll"
     },
     {
       "Identity": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Client\\obj\\Debug\\net7.0\\build-gz\\rmVzRbEH.gz",

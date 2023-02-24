@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/p4rgpWAthI66xbz7RZ64GetFB/PZUVB8wKD/0iRCc/fNeGe6NyiWjk3+Wc5kA4cpJRfMeasN0InXk4MdOYXxg==",
+  "dgSpecHash": "CPvexdrdVkkKXLhfpLvnmaLi6XVg1dP5VGLrG/ac+AiEqoB7I7TQvGZSufTyGP4ZcSQ+ADNj7bz1WWqgMOWtOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Charles\\Documents\\Visual Studio Projects\\ELEE_1119_mobileApp\\Server\\ELEE_1119_mobileApp.Server.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,8 @@
     "C:\\Users\\Charles\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Charles\\.nuget\\packages\\microsoft.jsinterop\\7.0.2\\microsoft.jsinterop.7.0.2.nupkg.sha512",
     "C:\\Users\\Charles\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.2\\microsoft.jsinterop.webassembly.7.0.2.nupkg.sha512",
+    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Charles\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
     "C:\\Users\\Charles\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\Charles\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Charles\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
