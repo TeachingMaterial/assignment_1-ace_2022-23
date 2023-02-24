@@ -1,0 +1,74 @@
+﻿@page "/"
+@using System.Net.WebSockets;
+@using System.Text;
+
+
+<button @onclick="ConnectToServer">Connect to server</button>
+<button @onclick="Disconnect">Disconnect</button>
+
+@code {
+    private ElementReference fileInput;
+    private string selectedFolder;
+
+    private System.Timers.Timer timer;
+
+    CancellationTokenSource disposalTokenSource = new CancellationTokenSource();
+    ClientWebSocket webSocket = new ClientWebSocket();
+
+    protected override void OnInitialized()
+    {
+        timer = new System.Timers.Timer(10000);
+        timer.Elapsed += OnTimerElapsed;
+        timer.AutoReset = true;
+        timer.Enabled = true;
+    }
+
+    private async Task ConnectToServer()
+    {
+       // Uri uri = new Uri("ws://example.com/websocket");
+        //ClientWebSocket webSocket = new ClientWebSocket();
+        
+
+        await webSocket.ConnectAsync(new Uri("wss://echo.websocket.org"), disposalTokenSource.Token);
+
+        // Connection successful
+    }
+
+    private async Task Disconnect()
+    {
+        await webSocket.CloseAsync(WebSocketCloseStatus.NormalClosure, "Connection closed by user", CancellationToken.None);
+
+        // Connection closed successfully
+    }
+
+    private async void OnTimerElapsed(object sender, System.Timers.ElapsedEventArgs e)
+    {
+        if (!string.IsNullOrEmpty(selectedFolder))
+        {
+            var filePaths = Directory.GetFiles(selectedFolder);
+            foreach (var filePath in filePaths)
+            {
+                var fileContents = File.ReadAllText(filePath);
+                var buffer = new ArraySegment<byte>(Encoding.UTF8.GetBytes(fileContents));
+                await webSocket.SendAsync(buffer, WebSocketMessageType.Text, true, CancellationToken.None);
+                File.Delete(filePath);
+            }
+        }
+    }
+
+    private async Task SendFolderContents()
+    {
+        var folderPath = Path.Combine(Environment.CurrentDirectory, "ImagesToServer");
+        if (Directory.Exists(folderPath))
+        {
+            var filePaths = Directory.GetFiles(folderPath);
+            foreach (var filePath in filePaths)
+            {
+                var fileContents = File.ReadAllText(filePath);
+                var buffer = new ArraySegment<byte>(Encoding.UTF8.GetBytes(fileContents));
+                await webSocket.SendAsync(buffer, WebSocketMessageType.Text, true, CancellationToken.None);
+            }
+        }
+    }
+
+}

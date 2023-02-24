@@ -1,0 +1,18 @@
+﻿@page "/extract-mjpeg-frames"
+@using ELEE_1119_mobileApp.Client;
+@inject HttpClient HttpClient
+
+<h3>mjpegFrameExtract</h3>
+<button @onclick="ExtractFrames">Extract Frames</button>
+
+
+@code {
+    private async Task ExtractFrames()
+    {
+        var mjpegUrl = "http://example.com/mjpeg-stream";
+
+        var outputDirectory = Path.Combine(Environment.CurrentDirectory, "ImagesToServer"); ;
+        var extractor = new MJPEGFrameExtractor(HttpClient, mjpegUrl, outputDirectory);
+        await extractor.StartExtractingFrames();
+    }
+}
