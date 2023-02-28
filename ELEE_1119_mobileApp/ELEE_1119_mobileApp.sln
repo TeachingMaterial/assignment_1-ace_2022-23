@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELEE_1119_mobileApp.Server", "Server\ELEE_1119_mobileApp.Server.csproj", "{E9B30D15-3E2F-42DA-B3B7-E5CAE5A34FFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ELEE_1119_mobileApp.Server", "Server\ELEE_1119_mobileApp.Server.csproj", "{E9B30D15-3E2F-42DA-B3B7-E5CAE5A34FFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELEE_1119_mobileApp.Client", "Client\ELEE_1119_mobileApp.Client.csproj", "{63D2AEE3-74F4-46FB-B84C-92AFF9DE3BB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ELEE_1119_mobileApp.Client", "Client\ELEE_1119_mobileApp.Client.csproj", "{63D2AEE3-74F4-46FB-B84C-92AFF9DE3BB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELEE_1119_mobileApp.Shared", "Shared\ELEE_1119_mobileApp.Shared.csproj", "{77F7B4F1-D715-49DB-B008-4ABDB3B6E925}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ELEE_1119_mobileApp.Shared", "Shared\ELEE_1119_mobileApp.Shared.csproj", "{77F7B4F1-D715-49DB-B008-4ABDB3B6E925}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
