@@ -1,0 +1,10 @@
+USING WEBSOCKETS
+To use WebSockets to transfer JSON data from a mobile phone to a server, the following steps can be followed:
+
+Set up a WebSocket server: The first step is to set up a WebSocket server on the server side that can receive and send data over a WebSocket connection.
+Establish a WebSocket connection: Next, the mobile app must establish a WebSocket connection with the server using a WebSocket library such as OkHttp or Netty.
+Serialize JSON data: On the mobile side, the JSON data must be serialized into a string or byte format so that it can be sent over the WebSocket connection.
+Send JSON data: Once the connection is established and the data is serialized, it can be sent to the server using the WebSocket’s ‘send()’ method.
+Deserialize JSON data: On the server side, the received data must be deserialized back into a JSON format so that it can be processed and stored.
+Close the WebSocket connection: Finally, when the data transfer is complete, the WebSocket connection should be closed.
+Reference link: https://stribny.name/blog/2020/07/real-time-data-streaming-using-fastapi-and-websockets/
